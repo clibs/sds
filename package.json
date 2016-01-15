@@ -1,0 +1,12 @@
+{
+  "name": "sds",
+  "version": "2.0.0",
+  "repo": "antirez/sds",
+  "description": "Simple Dynamic Strings library for C",
+  "keywords": ["string"],
+  "license": "BSD 2-Clause",
+  "src": [
+      "sds.c",
+      "sds.h"
+  ]
+}
